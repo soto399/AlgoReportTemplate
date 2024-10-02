@@ -7,3 +7,30 @@ Este repositorio contiene una plantilla en **LaTeX** diseñada específicamente 
 
 
 
+```bash
+pablo@tarro:~/Documents/AlgoReportTemplate$ tree
+.
+├── author.tex
+├── images
+├── preamble.tex
+├── README.md
+├── references.bib
+├── sections
+│   ├── abstract.tex
+│   ├── appendix1.tex
+│   ├── conclusions.tex
+│   ├── condiciones.tex
+│   ├── design.tex
+│   ├── experiment_dataset.tex
+│   ├── experiment_intro.tex
+│   ├── experiment_results.tex
+│   ├── implementations.tex
+│   └── introduction.tex
+├── tarea_main.pdf
+├── tarea_main.tex
+└── tikz
+    └── plot1.tex
+
+4 directories, 17 files
+
+```
