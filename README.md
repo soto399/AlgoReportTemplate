@@ -19,6 +19,8 @@ pablo@asus:~/Documents/AlgoReportTemplate$ tree
 .
 ├── author.tex
 ├── condiciones.tex
+├── images
+│   └── 4_impurezas_cantmax_size10.png
 ├── preamble.tex
 ├── README.md
 ├── references.bib
@@ -34,11 +36,15 @@ pablo@asus:~/Documents/AlgoReportTemplate$ tree
 │   ├── experiment_results.tex
 │   ├── implementations.tex
 │   └── introduction.tex
+├── tarea_main.bcf-SAVE-ERROR
 ├── tarea_main.pdf
 ├── tarea_main.tex
 └── tikz
-    └── plot1.tex
+    ├── plot1.tex
+    ├── plot2.tex
+    ├── plot3.tex
+    └── plot4.tex
 
-3 directories, 19 files
+4 directories, 24 files
 
 ```
