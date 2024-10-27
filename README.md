@@ -8,7 +8,8 @@ Este repositorio contiene una plantilla en **LaTeX** diseñada específicamente 
 
 - Escriba sus datos en `author.tex`.
 - `preamble.tex` y `tarea_main.tex` NO debe ser modificados.
-- La estructura de archivos de `sections/` No debe ser modificada. Sólo agregue texto a los archivos existentes (además de eliminar las indicaciones que vienen en esos archivos). 
+- La estructura de archivos de `sections/` No debe ser modificada. Sólo agregue texto a los archivos existentes. (además de borrar las indicaciones de los archivos)
+- La estructura de subsecciones y subsubsecciones de los archivos de `sections/` No debe ser modificada. Sólo agregue texto a los archivos existentes. (además de borrar las indicaciones de los archivos)
 - `references.bib` contiene las referencias bibliográficas. Agregue las suyas.
 - `tikz/` contiene archivos `.tex` con gráficos generados con `TikZ`. Puede agregar más archivos `.tex` con gráficos.
 - `tarea_main.pdf` es el archivo de salida generado por `pdflatex`.
